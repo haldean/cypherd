@@ -1,0 +1,8 @@
+cypherd - Simple text document distribution
+
+Welcome to cypherd. cypherd is an online service that allows you to anonymously
+share text files with the world. It can be used as an anonymous blog, or to
+anonymously transfer encrypted files.  Documents are limited to 32 MB.
+
+Get started by downloading our client script from http://root.cypherd.org/client
+The client requires a POSIX-compliant shell, curl and (optionally) gpg.
